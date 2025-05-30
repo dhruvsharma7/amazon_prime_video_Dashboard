@@ -12,7 +12,7 @@ The dashboard includes over **7,800 titles** with information about ratings, gen
 
 ## 📷 Dashboard Snapshot
 
-![Dashboard Preview]()
+![Dashboard Preview](Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ The dataset used is publicly available and was downloaded from **[Kaggle](https:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft **Power BI Desktop**  
 - **Power Query** for data transformation  
@@ -59,7 +59,7 @@ The dataset used is publicly available and was downloaded from **[Kaggle](https:
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Demonstrate effective dashboard design for streaming data  
 - Enable genre, country, and rating-based analysis  
@@ -67,7 +67,7 @@ The dataset used is publicly available and was downloaded from **[Kaggle](https:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone or download the repository.
 2. Open the `.pbix` file in Power BI Desktop.
@@ -76,15 +76,15 @@ The dataset used is publicly available and was downloaded from **[Kaggle](https:
 
 ---
 
-## 👤 Author
+## Author
 
 **Dhruv Sharma**  
-📧 (mailto:dhruvs7887@gmail.com)  
+📧 (dhruvs7887@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvsharma7887/) | [GitHub](https://github.com/dhruvsharma7)
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Kaggle for the dataset  
 - Microsoft Power BI  
