@@ -79,16 +79,7 @@ The dataset used is publicly available and was downloaded from **[Kaggle](https:
 ## Author
 
 **Dhruv Sharma**  
-📧 (dhruvs7887@gmail.com)  
+📧 [dhruvs7887@gmail.com](mailto:dhruvs7887@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvsharma7887/) | [GitHub](https://github.com/dhruvsharma7)
 
 ---
-
-## Acknowledgements
-
-- Kaggle for the dataset  
-- Microsoft Power BI  
-- The open-source community for learning support
-
----
-
